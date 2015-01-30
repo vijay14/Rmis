@@ -1,2 +1,2 @@
 # Rmis
-esearch Managenemt Information System (RMIS)
+Research Managenemt Information System (RMIS)
